@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Dash Board",
+        "icon": "bi bi-speedometer"
+        
+    },
+    {
+        "title": "Customer Management",
+        "icon": "bi-person-fill",
+        "childrens": [
+            {
+                "title": "Add Customers",
+        "icon": "bi-person-fill",
+                "path": "/"
+            },
+            {
+                "title": "Customers List",
+        "icon": "bi bi-people-fill",
+                "path": "/"
+            }
+        ]
+    },
+    {
+        "title": "Product Management",
+        "icon": "bi bi-archive",
+        "childrens": [
+            {
+                "title": "Add Products",
+                "path": "/"
+            },
+            
+            {
+                "title": "Product List",
+                "path": "/"
+            }
+        ]
+    },
+    {
+        "title": "Order Management",
+        "icon": "bi bi-cart-dash",
+        "childrens": [
+            {
+                "title": "Create Orders",
+                "path": "/"
+            },
+            {
+                "title": "Orders List",
+                "path": "/"   
+            },
+            {
+                "title": "Delivered Orders ",
+                "path": "/"   
+            }
+        ]
+    }
+    
+    
+]
